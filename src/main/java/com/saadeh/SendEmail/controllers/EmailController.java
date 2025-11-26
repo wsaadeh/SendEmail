@@ -2,6 +2,7 @@ package com.saadeh.SendEmail.controllers;
 
 import com.saadeh.SendEmail.dto.EmailDTO;
 import com.saadeh.SendEmail.services.EmailService;
+import com.saadeh.SendEmail.services.SendGridEmailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
