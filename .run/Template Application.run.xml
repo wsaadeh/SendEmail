@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="Application" factoryName="Application">
+    <envs>
+      <env name="SENDGRID_API_KEY" value="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" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.saadeh.SendEmail.SendEmailApplication" />
+    <module name="SendEmail" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
